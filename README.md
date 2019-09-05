@@ -1,2 +1,2 @@
-# mnxref-sparqlwrapper
-A Python package for [MetaNetX RDF endpoint](https://rdf.metanetx.org/)
+# mnxref
+A SPARQL wrapper package for [MetaNetX RDF endpoint](https://rdf.metanetx.org/)
