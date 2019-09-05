@@ -1,2 +1,2 @@
-# ecmdbpy
-A Python package to use [ECMDB](http://ecmdb.ca) database
+# mnxref-sparqlwrapper
+A Python package for [MetaNetX RDF endpoint](https://rdf.metanetx.org/)
